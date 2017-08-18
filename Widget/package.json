@@ -1,0 +1,14 @@
+{
+    "name": "widget",
+    "version": "1.0.0",
+    "main": "main.js",
+    "devDependencies": {
+        "electron": "^1.7.5"
+    },
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "request": "^2.81.0"
+    }
+}
